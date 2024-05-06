@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3BG\n"
-"POT-Creation-Date: 2024-04-28 09:28+0100\n"
+"POT-Creation-Date: 2024-05-03 10:12+0200\n"
 "PO-Revision-Date: 2024-04-06 18:37+0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -57,7 +57,7 @@ msgstr ""
 "de estas tierras!"
 
 #. type: multicols
-#: sections/introduction.tex:35
+#: sections/introduction.tex:34
 #, no-wrap
 msgid ""
 "{2}\n"
@@ -72,7 +72,6 @@ msgid ""
 "  \\includesvg[height=0.1px]{\\svgs/2_treasure_die.svg}\n"
 "  \\includesvg[height=0.1px]{\\svgs/arrow_right_gray.svg}\n"
 "  \\includesvg[height=0.1px]{\\svgs/artifact.svg}\n"
-"  \\includesvg[height=0.1px]{\\svgs/bronze-table.svg}\n"
 "  \\includesvg[height=0.1px]{\\svgs/damage-table.svg}\n"
 "  \\includesvg[height=0.1px]{\\svgs/movement.svg}\n"
 "  \\includesvg[height=0.1px]{\\svgs/spellpower.svg}\n"
@@ -89,12 +88,11 @@ msgstr ""
 "\\textbf{Aviso}: En este reglamento, los términos del juego y de los componentes van en mayúsculas.\n"
 "\\textbf{Texto en negrita} se utiliza para llamar la atención sobre normas importantes.\n"
 "\\textit{Cursiva} se utiliza para los ejemplos de juego.\n"
-"\\hyperlink{Heroes of Might and Magic III}{Hiperenlaces de color marrón} le llevará a otras partes del libro de reglas.\n"
+"\\hyperlink{Heroes of Might and Magic III}{Hiperenlaces en color marrón} te llevarán a otras partes de este libro.\n"
 "\\phantom{\n"
 "  \\includesvg[height=0.1px]{\\svgs/2_treasure_die.svg}\n"
 "  \\includesvg[height=0.1px]{\\svgs/arrow_right_gray.svg}\n"
 "  \\includesvg[height=0.1px]{\\svgs/artifact.svg}\n"
-"  \\includesvg[height=0.1px]{\\svgs/bronze-table.svg}\n"
 "  \\includesvg[height=0.1px]{\\svgs/damage-table.svg}\n"
 "  \\includesvg[height=0.1px]{\\svgs/movement.svg}\n"
 "  \\includesvg[height=0.1px]{\\svgs/spellpower.svg}\n"
@@ -108,7 +106,7 @@ msgstr ""
 "\\vfill"
 
 #. type: scaledfigure
-#: sections/introduction.tex:39
+#: sections/introduction.tex:38
 #, no-wrap
 msgid ""
 "[blanker]\n"
